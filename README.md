@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./ScreenshotBlogPreviewCard.png)
+![](ScreenshotBlogPreviewCard.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [FrontendMentor Solution](https://www.frontendmentor.io/solutions/blog-preview-card-component-7pKgXIsMj2)
+- Live Site URL: [Vercel live site URL](https://fsdev-blog-preview-card.vercel.app/)
 
 ## My process
 
