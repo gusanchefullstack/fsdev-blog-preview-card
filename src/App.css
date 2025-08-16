@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --color-Yellow: #f4d04e;
+  --color-Grey-950: #111111;
+  --color-Grey-500: #6b6b6b;
+
+  --font-figtree: "Figtree", sans-serif;
+
+  --radius-card: 20px;
+  --radius-hero: 10px;
+  --radius-category: 4px;
+
+  --shadow-card: 8px 8px 0 0 #000;
+
+}
