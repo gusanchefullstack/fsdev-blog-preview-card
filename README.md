@@ -37,7 +37,7 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- TailwindCSS
 - Flexbox
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
